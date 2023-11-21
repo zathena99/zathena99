@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jude Lucas Turaray</h1>
+<h1 align="center">Hi 👋, I'm Jude Turaray</h1>
 <h3 align="center">I'm currently studying at STI College Ortigas-Cainta</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zathena99&label=Profile%20views&color=0e75b6&style=flat" alt="zathena99" /> </p>
